@@ -1,9 +1,9 @@
 # Regex-extension
 
-#----------------------------------------------------------DESCRIPTION----------------------------------------------------------
+#------------------------------------------------------------DESCRIPTION------------------------------------------------------------
          This project provides the opportunity to extend the regexes of trufflehog by adding your additional regexes while maintaining the default regexes by trufflehog, in  your regexes checks.The script automate the entire regex checks extension process for you. 
 
-#---------------------------------------------------------INSTRUCTION--------------------------------------------------------------
+#-----------------------------------------------------------INSTRUCTION----------------------------------------------------------------
          All you need to do is, create a json file named "regex.json" in the
  same directory as this script. Then insert your regex into the file. 
  An example file could contain :
